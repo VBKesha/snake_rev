@@ -1,4 +1,4 @@
-Snake Rattle'n'Roll world decoderThese files are just an addition to the article https://habr.com/ru/post/498106/And without reading it, I have little meaning.
+Snake Rattle'n'Roll world decoderThese files are just an addition to the article https://habr.com/ru/post/498106/ And without reading it, I have little meaning.
 
 Decription  - main.c decode level from iNES file(NTSC version) and create 3D Max script for generate geometry. 
  - level.ms is pregenerated 3D Max script of game world
